@@ -1,0 +1,8 @@
+ home -
+         1.customer login -       
+                            1.viewpast orders 
+                            2.new order - 
+                                          1.order confirmed or not page
+         2.vendor login - 
+                         1.view current orders that has to be delivered
+                         2.view past history of orders
